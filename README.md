@@ -46,3 +46,5 @@ With a minimal dot, your aim becomes sharper and your screen stays clean — hel
 ## ❤️ Support
 
 If you like this mod, consider supporting the project by sharing it or leaving feedback!
+[Support](https://ko-fi.com/novaxi)
+[Resourcepack page](https://modrinth.com/resourcepack/dot-crossair/settings/description)
