@@ -39,7 +39,7 @@ With a minimal dot, your aim becomes sharper and your screen stays clean — hel
 
 ## 📸 Preview
 
-> Add your screenshots here to showcase the dot crosshair in-game.
+![Preview](https://i.postimg.cc/sf8YJjVH/huge-2026-03-23-20-20-52.jpg)
 
 ---
 
